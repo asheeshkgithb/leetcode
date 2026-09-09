@@ -13,6 +13,7 @@ https://leetcode.com/progress/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/asheeshkgithb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/asheeshkgithb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/asheeshkgithb/leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -27,4 +28,12 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/asheeshkgithb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/asheeshkgithb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
