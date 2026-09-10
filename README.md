@@ -8,6 +8,7 @@ https://leetcode.com/progress/
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/asheeshkgithb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/asheeshkgithb/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/asheeshkgithb/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 ## String
@@ -17,6 +18,7 @@ https://leetcode.com/progress/
 | [0125-valid-palindrome](https://github.com/asheeshkgithb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/asheeshkgithb/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/asheeshkgithb/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/asheeshkgithb/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
