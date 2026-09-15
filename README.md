@@ -24,6 +24,7 @@ https://leetcode.com/progress/
 | [0520-detect-capital](https://github.com/asheeshkgithb/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/asheeshkgithb/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0824-goat-latin](https://github.com/asheeshkgithb/leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
