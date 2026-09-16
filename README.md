@@ -11,6 +11,7 @@ https://leetcode.com/progress/
 | [0443-string-compression](https://github.com/asheeshkgithb/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/asheeshkgithb/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ https://leetcode.com/progress/
 | [0541-reverse-string-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/asheeshkgithb/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0824-goat-latin](https://github.com/asheeshkgithb/leetcode/tree/main/0824-goat-latin/) | Easy |
+| [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ https://leetcode.com/progress/
 | ------- | ------- |
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +68,8 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
