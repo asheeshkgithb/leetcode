@@ -48,6 +48,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/asheeshkgithb/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0223-rectangle-area](https://github.com/asheeshkgithb/leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
 ## Simulation
@@ -72,4 +73,12 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/asheeshkgithb/leetcode/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/asheeshkgithb/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
