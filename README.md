@@ -40,6 +40,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/asheeshkgithb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/asheeshkgithb/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ https://leetcode.com/progress/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/asheeshkgithb/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/asheeshkgithb/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Newton's Method
