@@ -14,6 +14,7 @@ https://leetcode.com/progress/
 | [0696-count-binary-substrings](https://github.com/asheeshkgithb/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ https://leetcode.com/progress/
 | [0035-search-insert-position](https://github.com/asheeshkgithb/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ https://leetcode.com/progress/
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
