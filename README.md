@@ -6,6 +6,7 @@ https://leetcode.com/progress/
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/asheeshkgithb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/asheeshkgithb/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/asheeshkgithb/leetcode/tree/main/0443-string-compression/) | Medium |
@@ -35,12 +36,14 @@ https://leetcode.com/progress/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/asheeshkgithb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/asheeshkgithb/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -93,4 +96,12 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
