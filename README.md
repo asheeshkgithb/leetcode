@@ -54,6 +54,7 @@ https://leetcode.com/progress/
 | [0223-rectangle-area](https://github.com/asheeshkgithb/leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0367-valid-perfect-square](https://github.com/asheeshkgithb/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ https://leetcode.com/progress/
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/asheeshkgithb/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/asheeshkgithb/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/asheeshkgithb/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
