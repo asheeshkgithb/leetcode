@@ -33,11 +33,13 @@ https://leetcode.com/progress/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@ https://leetcode.com/progress/
 | [0014-longest-common-prefix](https://github.com/asheeshkgithb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/asheeshkgithb/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Trie
