@@ -64,6 +64,7 @@ https://leetcode.com/progress/
 | [0009-palindrome-number](https://github.com/asheeshkgithb/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/asheeshkgithb/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/asheeshkgithb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0223-rectangle-area](https://github.com/asheeshkgithb/leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
@@ -117,4 +118,12 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/asheeshkgithb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/asheeshkgithb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
