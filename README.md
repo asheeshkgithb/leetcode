@@ -55,6 +55,7 @@ https://leetcode.com/progress/
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/asheeshkgithb/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -129,4 +130,8 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/asheeshkgithb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/asheeshkgithb/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 <!---LeetCode Topics End-->
