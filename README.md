@@ -25,6 +25,7 @@ https://leetcode.com/progress/
 | [0125-valid-palindrome](https://github.com/asheeshkgithb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/asheeshkgithb/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0443-string-compression](https://github.com/asheeshkgithb/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/asheeshkgithb/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
@@ -39,6 +40,7 @@ https://leetcode.com/progress/
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ https://leetcode.com/progress/
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +97,7 @@ https://leetcode.com/progress/
 | ------- | ------- |
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
