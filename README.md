@@ -39,6 +39,7 @@ https://leetcode.com/progress/
 | [0013-roman-to-integer](https://github.com/asheeshkgithb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
@@ -47,6 +48,7 @@ https://leetcode.com/progress/
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Array
@@ -57,6 +59,7 @@ https://leetcode.com/progress/
 | [0066-plus-one](https://github.com/asheeshkgithb/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/asheeshkgithb/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -78,6 +81,7 @@ https://leetcode.com/progress/
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/asheeshkgithb/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/asheeshkgithb/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -99,6 +103,7 @@ https://leetcode.com/progress/
 | ------- | ------- |
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -109,6 +114,7 @@ https://leetcode.com/progress/
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/asheeshkgithb/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/asheeshkgithb/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/asheeshkgithb/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
