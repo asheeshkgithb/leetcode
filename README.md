@@ -54,6 +54,7 @@ https://leetcode.com/progress/
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ https://leetcode.com/progress/
 | [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/asheeshkgithb/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -88,6 +90,7 @@ https://leetcode.com/progress/
 | [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/asheeshkgithb/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/asheeshkgithb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
