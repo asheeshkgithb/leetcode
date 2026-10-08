@@ -38,6 +38,7 @@ https://leetcode.com/progress/
 | [0696-count-binary-substrings](https://github.com/asheeshkgithb/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0824-goat-latin](https://github.com/asheeshkgithb/leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0859-buddy-strings](https://github.com/asheeshkgithb/leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ https://leetcode.com/progress/
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0859-buddy-strings](https://github.com/asheeshkgithb/leetcode/tree/main/0859-buddy-strings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
