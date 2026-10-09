@@ -18,6 +18,7 @@ https://leetcode.com/progress/
 | [0696-count-binary-substrings](https://github.com/asheeshkgithb/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ https://leetcode.com/progress/
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/asheeshkgithb/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ https://leetcode.com/progress/
 | [0414-third-maximum-number](https://github.com/asheeshkgithb/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/asheeshkgithb/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asheeshkgithb/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Trie
