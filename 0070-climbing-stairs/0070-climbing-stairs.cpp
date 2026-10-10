@@ -1,19 +1,14 @@
 class Solution {
 public:
-    int climbStairs(int n) 
-    {
-        int f1 = 1;
-        int f2 = 2;
-        if (n == 1)
-            return f1;
-        if (n == 2)
-            return f2;
-        for (int i = 3; i <= n; i++) 
-        {
-            int f3 = f1 + f2;
-            f1 = f2;
-            f2 = f3;
+    int climbStairs(int n) {
+        if(n<=2)
+        return n;
+        int a=1,b=2;
+        for(int i=3;i<=n;i++){
+            int c=a+b;
+            a=b;
+            b=c;
         }
-        return f2;
+        return b;
     }
 };
