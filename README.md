@@ -191,4 +191,8 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/asheeshkgithb/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
