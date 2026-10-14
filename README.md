@@ -70,6 +70,7 @@ https://leetcode.com/progress/
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/asheeshkgithb/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asheeshkgithb/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -88,6 +89,7 @@ https://leetcode.com/progress/
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/asheeshkgithb/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -196,6 +198,7 @@ https://leetcode.com/progress/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -209,4 +212,8 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
