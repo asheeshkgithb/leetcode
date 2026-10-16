@@ -84,6 +84,7 @@ https://leetcode.com/progress/
 | [0073-set-matrix-zeroes](https://github.com/asheeshkgithb/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/asheeshkgithb/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -113,6 +114,7 @@ https://leetcode.com/progress/
 | [0168-excel-sheet-column-title](https://github.com/asheeshkgithb/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/asheeshkgithb/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/asheeshkgithb/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/asheeshkgithb/leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
@@ -133,6 +135,7 @@ https://leetcode.com/progress/
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0258-add-digits/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -218,4 +221,20 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
