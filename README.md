@@ -30,6 +30,7 @@ https://leetcode.com/progress/
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/asheeshkgithb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/asheeshkgithb/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0179-largest-number](https://github.com/asheeshkgithb/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/asheeshkgithb/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -62,6 +63,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0179-largest-number](https://github.com/asheeshkgithb/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -83,6 +85,7 @@ https://leetcode.com/progress/
 | [0066-plus-one](https://github.com/asheeshkgithb/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/asheeshkgithb/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/asheeshkgithb/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0179-largest-number](https://github.com/asheeshkgithb/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/asheeshkgithb/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/asheeshkgithb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -203,6 +206,7 @@ https://leetcode.com/progress/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/asheeshkgithb/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Database
