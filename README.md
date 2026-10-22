@@ -154,6 +154,7 @@ https://leetcode.com/progress/
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/asheeshkgithb/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/asheeshkgithb/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/asheeshkgithb/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
@@ -195,6 +196,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/asheeshkgithb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0338-counting-bits](https://github.com/asheeshkgithb/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/asheeshkgithb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
