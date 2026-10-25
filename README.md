@@ -99,6 +99,7 @@ https://leetcode.com/progress/
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0941-valid-mountain-array](https://github.com/asheeshkgithb/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asheeshkgithb/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asheeshkgithb/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/asheeshkgithb/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
