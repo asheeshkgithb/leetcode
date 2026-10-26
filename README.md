@@ -98,6 +98,7 @@ https://leetcode.com/progress/
 | [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/asheeshkgithb/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0941-valid-mountain-array](https://github.com/asheeshkgithb/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asheeshkgithb/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -178,6 +179,7 @@ https://leetcode.com/progress/
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/asheeshkgithb/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/asheeshkgithb/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asheeshkgithb/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
