@@ -135,6 +135,7 @@ https://leetcode.com/progress/
 | [0509-fibonacci-number](https://github.com/asheeshkgithb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/asheeshkgithb/leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
+| [1175-prime-arrangements](https://github.com/asheeshkgithb/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asheeshkgithb/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -250,12 +251,15 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/asheeshkgithb/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/asheeshkgithb/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/asheeshkgithb/leetcode/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/asheeshkgithb/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 <!---LeetCode Topics End-->
