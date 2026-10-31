@@ -59,6 +59,7 @@ https://leetcode.com/progress/
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0859-buddy-strings](https://github.com/asheeshkgithb/leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asheeshkgithb/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
@@ -98,6 +99,7 @@ https://leetcode.com/progress/
 | [0349-intersection-of-two-arrays](https://github.com/asheeshkgithb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/asheeshkgithb/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -173,6 +175,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/asheeshkgithb/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -278,4 +281,8 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/asheeshkgithb/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
