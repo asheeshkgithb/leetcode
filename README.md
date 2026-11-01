@@ -177,6 +177,7 @@ https://leetcode.com/progress/
 | [0020-valid-parentheses](https://github.com/asheeshkgithb/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,4 +286,20 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 <!---LeetCode Topics End-->
