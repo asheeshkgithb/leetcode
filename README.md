@@ -141,6 +141,7 @@ https://leetcode.com/progress/
 | [0415-add-strings](https://github.com/asheeshkgithb/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/asheeshkgithb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/asheeshkgithb/leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1175-prime-arrangements](https://github.com/asheeshkgithb/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asheeshkgithb/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
