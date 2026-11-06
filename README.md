@@ -139,6 +139,7 @@ https://leetcode.com/progress/
 | [0342-power-of-four](https://github.com/asheeshkgithb/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/asheeshkgithb/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/asheeshkgithb/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/asheeshkgithb/leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/asheeshkgithb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
