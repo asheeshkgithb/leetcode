@@ -107,6 +107,7 @@ https://leetcode.com/progress/
 | [0744-find-smallest-letter-greater-than-target](https://github.com/asheeshkgithb/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0941-valid-mountain-array](https://github.com/asheeshkgithb/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
+| [1037-valid-boomerang](https://github.com/asheeshkgithb/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asheeshkgithb/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/asheeshkgithb/leetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asheeshkgithb/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -143,6 +144,7 @@ https://leetcode.com/progress/
 | [0509-fibonacci-number](https://github.com/asheeshkgithb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1037-valid-boomerang](https://github.com/asheeshkgithb/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/asheeshkgithb/leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1175-prime-arrangements](https://github.com/asheeshkgithb/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asheeshkgithb/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -164,6 +166,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/asheeshkgithb/leetcode/tree/main/0223-rectangle-area/) | Medium |
+| [1037-valid-boomerang](https://github.com/asheeshkgithb/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asheeshkgithb/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
