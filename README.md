@@ -28,6 +28,7 @@ https://leetcode.com/progress/
 | [0013-roman-to-integer](https://github.com/asheeshkgithb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/asheeshkgithb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/asheeshkgithb/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/asheeshkgithb/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/asheeshkgithb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/asheeshkgithb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/asheeshkgithb/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
