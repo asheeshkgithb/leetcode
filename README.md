@@ -47,6 +47,7 @@ https://leetcode.com/progress/
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/asheeshkgithb/leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/asheeshkgithb/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asheeshkgithb/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ https://leetcode.com/progress/
 | [0682-baseball-game](https://github.com/asheeshkgithb/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asheeshkgithb/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
