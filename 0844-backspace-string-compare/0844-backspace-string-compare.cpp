@@ -8,10 +8,11 @@ public:
         {
             if(c == '#') 
             {
-                if(!a.empty())
+            if(!a.empty())
                     a.pop_back();
             }
-            else {
+            else 
+            {
                 a += c;
             }
         }
@@ -23,8 +24,8 @@ public:
                     b.pop_back();
             }
             else 
-            {
-                b += c;
+              {
+                b+=c;
             }
         }
         return a == b;
