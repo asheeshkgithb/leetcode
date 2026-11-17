@@ -105,6 +105,7 @@ https://leetcode.com/progress/
 | [0414-third-maximum-number](https://github.com/asheeshkgithb/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0622-design-circular-queue](https://github.com/asheeshkgithb/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/asheeshkgithb/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -325,15 +326,21 @@ https://leetcode.com/progress/
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/asheeshkgithb/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/asheeshkgithb/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/asheeshkgithb/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/asheeshkgithb/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/asheeshkgithb/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/asheeshkgithb/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/asheeshkgithb/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/asheeshkgithb/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/asheeshkgithb/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/asheeshkgithb/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
