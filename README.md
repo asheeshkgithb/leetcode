@@ -109,6 +109,7 @@ https://leetcode.com/progress/
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkgithb/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/asheeshkgithb/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/asheeshkgithb/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/asheeshkgithb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/asheeshkgithb/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0941-valid-mountain-array](https://github.com/asheeshkgithb/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
@@ -191,6 +192,7 @@ https://leetcode.com/progress/
 | [0232-implement-queue-using-stacks](https://github.com/asheeshkgithb/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/asheeshkgithb/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/asheeshkgithb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asheeshkgithb/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -305,6 +307,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/asheeshkgithb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
