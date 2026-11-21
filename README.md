@@ -37,6 +37,7 @@ https://leetcode.com/progress/
 | [0242-valid-anagram](https://github.com/asheeshkgithb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/asheeshkgithb/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/asheeshkgithb/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0402-remove-k-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/asheeshkgithb/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/asheeshkgithb/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/asheeshkgithb/leetcode/tree/main/0520-detect-capital/) | Easy |
@@ -191,6 +192,7 @@ https://leetcode.com/progress/
 | [0155-min-stack](https://github.com/asheeshkgithb/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/asheeshkgithb/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/asheeshkgithb/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0402-remove-k-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/asheeshkgithb/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/asheeshkgithb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -258,6 +260,7 @@ https://leetcode.com/progress/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/asheeshkgithb/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0402-remove-k-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0561-array-partition](https://github.com/asheeshkgithb/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkgithb/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Database
@@ -307,6 +310,7 @@ https://leetcode.com/progress/
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/asheeshkgithb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
