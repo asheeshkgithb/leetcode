@@ -198,6 +198,7 @@ https://leetcode.com/progress/
 | [0739-daily-temperatures](https://github.com/asheeshkgithb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/asheeshkgithb/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/asheeshkgithb/leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0901-online-stock-span](https://github.com/asheeshkgithb/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asheeshkgithb/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/asheeshkgithb/leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Binary Search
@@ -313,6 +314,7 @@ https://leetcode.com/progress/
 | [0402-remove-k-digits](https://github.com/asheeshkgithb/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/asheeshkgithb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/asheeshkgithb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/asheeshkgithb/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +338,7 @@ https://leetcode.com/progress/
 | [0225-implement-stack-using-queues](https://github.com/asheeshkgithb/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/asheeshkgithb/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/asheeshkgithb/leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [0901-online-stock-span](https://github.com/asheeshkgithb/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/asheeshkgithb/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -347,6 +350,7 @@ https://leetcode.com/progress/
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/asheeshkgithb/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/asheeshkgithb/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
