@@ -228,6 +228,7 @@ https://leetcode.com/progress/
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/asheeshkgithb/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/asheeshkgithb/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/asheeshkgithb/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/asheeshkgithb/leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -359,6 +360,7 @@ https://leetcode.com/progress/
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/asheeshkgithb/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0622-design-circular-queue](https://github.com/asheeshkgithb/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/asheeshkgithb/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
